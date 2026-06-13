@@ -18,7 +18,16 @@ we can use 2 ways
 - this compiles the code and produces a EXEcutable file 
 ## To run the executable file in powershell
 .\practice.exe
+## Boiler plate code
+#include <iostream>
+using namespace std;
+int main()
+{
+    return 0;
+} 
+### Comments are added using //
 ### First code terminal stuff in VS code
 (PS C:\Users\aviav\OneDrive\Desktop\java-programs\c++ programs> g++ -o practice practice.cpp
 PS C:\Users\aviav\OneDrive\Desktop\java-programs\c++ programs> .\practice.exe
 Avikam Gupta)
+
