@@ -49,7 +49,7 @@ CPP-Journey
 
 ### Completed
 - [x] Day 01 - Basics
-
+- [x] Day 02 - Variables,Inputs/Outputs and Operators
 ## Author
 
 Avikam Gupta
