@@ -50,6 +50,7 @@ CPP-Journey
 ### Completed
 - [x] Day 01 - Basics
 - [x] Day 02 - Variables,Inputs/Outputs and Operators
+- [x] Day 03 - if-else conditional statements
 ## Author
 
 Avikam Gupta
