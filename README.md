@@ -52,6 +52,10 @@ CPP-Journey
 - [x] Day 02 - Variables,Inputs/Outputs and Operators
 - [x] Day 03 - if-else conditional statements
 - [x] Day 04 - Loops
+- [x] Day 05 - Pattern problems
+- [x] Day 06 - Functions
+
+
 ## Author
 
 Avikam Gupta
