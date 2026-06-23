@@ -54,6 +54,7 @@ CPP-Journey
 - [x] Day 04 - Loops
 - [x] Day 05 - Pattern problems
 - [x] Day 06 - Functions
+- [x] Day 07 - Arrays
 
 
 ## Author
