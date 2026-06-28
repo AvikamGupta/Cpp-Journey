@@ -1,52 +1,58 @@
-# 🚀 C++ Journey
-
 <div align="center">
 
-### *Mastering C++ — One Concept at a Time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=C%2B%2B%20Journey&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Mastering%20C%2B%2B%20%E2%80%94%20One%20Concept%20at%20a%20Time&descAlignY=55&descSize=18"/>
 
-*A structured repository documenting my journey of learning C++ from scratch through notes, practice programs, projects, and consistent daily progress.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B+Every+Day+%F0%9F%9A%80;Building+Strong+DSA+Foundations+%F0%9F%A7%A0;Writing+Clean+%26+Well-Commented+Code+%F0%9F%92%BB;Consistency+Over+Perfection+%F0%9F%94%A5"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B+Every+Day;Building+Programming+Fundamentals;Preparing+for+DSA;Consistency+Over+Perfection"/>
+<br/>
+
+![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Compiler](https://img.shields.io/badge/Compiler-GCC%20%2F%20G%2B%2B-A8B9CC?style=for-the-badge&logo=gnu&logoColor=black)
+![Days](https://img.shields.io/badge/Days%20Completed-08-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20🔥-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📖 About
+## 📖 About This Repository
 
-Welcome to my **C++ Journey** repository.
+Welcome to my **C++ Journey** — a structured, day-by-day record of everything I learn about C++.
 
-This repository serves as a complete record of my C++ learning journey. Every topic I study is organized with detailed notes, well-commented code, and practice problems.
+Every topic I study gets its own detailed notes, well-commented code, and practice problems. This isn't just a code dump — it's a living document of my growth as a programmer.
 
-The purpose of this repository is to build a strong programming foundation before diving into:
+**The end goal:** build a rock-solid programming foundation before diving into:
 
-* 🧠 Data Structures & Algorithms
-* 🏆 Competitive Programming
-* 💻 Software Development
-* 🚀 Open Source
+| Goal | Description |
+|------|-------------|
+| 🧠 DSA | Data Structures & Algorithms |
+| 🏆 CP | Competitive Programming |
+| 💻 Dev | Software Development |
+| 🚀 OSS | Open Source Contributions |
 
-Instead of simply completing topics, my focus is on **understanding concepts deeply and writing clean code.**
-
----
-
-# 🎯 Objectives
-
-* 📚 Learn Modern C++ from Beginner to Advanced
-* 💻 Write code every day
-* 🧠 Develop problem-solving skills
-* 📝 Maintain revision-friendly notes
-* 🚀 Prepare for DSA
-* ⚡ Build small projects
-* 📈 Track learning consistently
+> *"Instead of simply completing topics, my focus is on understanding concepts deeply and writing clean code."*
 
 ---
 
-# 📂 Repository Structure
+## 🎯 Objectives
 
-```text
-Cpp-Journey
+- 📚 Learn Modern C++ from Beginner to Advanced
+- 💻 Write code every single day
+- 🧠 Develop genuine problem-solving skills
+- 📝 Maintain revision-friendly notes
+- 🚀 Prepare thoroughly for DSA
+- ⚡ Build small but complete projects
+- 📈 Track and reflect on progress consistently
+
+---
+
+## 📂 Repository Structure
+
+```
+Cpp-Journey/
 │
-├── 📂 Notes
+├── 📂 Notes/
 │   ├── Day01_Basics.md
 │   ├── Day02_Variables_DataTypes.md
 │   ├── Day03_Conditionals.md
@@ -57,144 +63,134 @@ Cpp-Journey
 │   ├── Day08_Vectors.md
 │   └── ...
 │
-├── 📂 Codes
-│   ├── Day01
-│   ├── Day02
-│   ├── Day03
+├── 📂 Codes/
+│   ├── Day01/
+│   ├── Day02/
+│   ├── Day03/
 │   └── ...
 │
-├── 📂 Mini Projects
+├── 📂 Mini Projects/
 │
 └── README.md
 ```
 
 ---
 
-# 🗺️ Learning Roadmap
+## 🗺️ Learning Roadmap
 
-## ✅ Completed
+### ✅ Completed
 
-* [x] Basics
-* [x] Variables
-* [x] Data Types
-* [x] Input / Output
-* [x] Operators
-* [x] Conditional Statements
-* [x] Loops
-* [x] Pattern Problems
-* [x] Functions
-* [x] Arrays
-* [x] Vectors
+```
+Basics          ████████████████████  100%
+Variables       ████████████████████  100%
+Data Types      ████████████████████  100%
+Input / Output  ████████████████████  100%
+Operators       ████████████████████  100%
+Conditionals    ████████████████████  100%
+Loops           ████████████████████  100%
+Pattern Probs   ████████████████████  100%
+Functions       ████████████████████  100%
+Arrays          ████████████████████  100%
+Vectors         ████████████████████  100%
+```
 
----
+### 🔄 Currently Learning
 
-## 🚀 Currently Learning
+```
+Strings         ██████░░░░░░░░░░░░░░   30%  ⏳
+```
 
-* [ ] Strings
+### 📚 Upcoming Topics
 
----
-
-## 📚 Upcoming Topics
-
-* [ ] Pointers
-* [ ] Recursion
-* [ ] Structures
-* [ ] Classes & Objects
-* [ ] Constructors
-* [ ] Inheritance
-* [ ] Polymorphism
-* [ ] File Handling
-* [ ] Exception Handling
-* [ ] STL
-* [ ] Algorithms
-* [ ] Templates
-* [ ] Smart Pointers
-* [ ] Modern C++
-
----
-
-# 📅 Daily Progress
-
-| Day | Topic                             | Notes | Code |    Status   |
-| :-: | --------------------------------- | :---: | :--: | :---------: |
-|  01 | Basics                            |   ✅   |   ✅  |   Complete  |
-|  02 | Variables, Data Types & Operators |   ✅   |   ✅  |   Complete  |
-|  03 | Conditional Statements            |   ✅   |   ✅  |   Complete  |
-|  04 | Loops                             |   ✅   |   ✅  |   Complete  |
-|  05 | Pattern Problems                  |   ✅   |   ✅  |   Complete  |
-|  06 | Functions                         |   ✅   |   ✅  |   Complete  |
-|  07 | Arrays                            |   ✅   |   ✅  |   Complete  |
-|  08 | Vectors                           |   ✅   |   ✅  |   Complete  |
-|  09 | Strings                           |   ⏳   |   ⏳  | In Progress |
-
----
-
-# 📈 Learning Progress
-
-```text
-██████████░░░░░░░░░░░░░░░░░░
-
-Completed Days : 08
-
-Current Topic : Strings
-
-Consistency : 🔥 Active
-
-Next Goal : STL
+```
+Pointers        ░░░░░░░░░░░░░░░░░░░░    0%
+Recursion       ░░░░░░░░░░░░░░░░░░░░    0%
+Structures      ░░░░░░░░░░░░░░░░░░░░    0%
+OOP (Classes)   ░░░░░░░░░░░░░░░░░░░░    0%
+Inheritance     ░░░░░░░░░░░░░░░░░░░░    0%
+Polymorphism    ░░░░░░░░░░░░░░░░░░░░    0%
+File Handling   ░░░░░░░░░░░░░░░░░░░░    0%
+STL             ░░░░░░░░░░░░░░░░░░░░    0%
+Templates       ░░░░░░░░░░░░░░░░░░░░    0%
+Modern C++      ░░░░░░░░░░░░░░░░░░░░    0%
 ```
 
 ---
 
-# 📚 Repository Highlights
+## 📅 Daily Progress Log
 
-* 📖 Beginner-Friendly Notes
-* 💻 Clean & Well-Commented Code
-* 📌 Concept Explanations
-* 🧠 Practice Programs
-* ⚡ Time Complexity (where applicable)
-* 🚀 Mini Projects
-* 📈 Daily Progress Tracking
-* 📚 Easy Revision Material
-
----
-
-# 🛠️ Development Environment
-
-| Tool            | Technology         |
-| --------------- | ------------------ |
-| Language        | C++17              |
-| Compiler        | GCC / G++          |
-| IDE             | Visual Studio Code |
-| Version Control | Git                |
-| Repository      | GitHub             |
+| Day | Topic | Notes | Code | Status |
+|:---:|-------|:-----:|:----:|:------:|
+| 01 | Basics | ✅ | ✅ | `Complete` |
+| 02 | Variables, Data Types & Operators | ✅ | ✅ | `Complete` |
+| 03 | Conditional Statements | ✅ | ✅ | `Complete` |
+| 04 | Loops | ✅ | ✅ | `Complete` |
+| 05 | Pattern Problems | ✅ | ✅ | `Complete` |
+| 06 | Functions | ✅ | ✅ | `Complete` |
+| 07 | Arrays | ✅ | ✅ | `Complete` |
+| 08 | Vectors | ✅ | ✅ | `Complete` |
+| 09 | Strings | ⏳ | ⏳ | `In Progress` |
 
 ---
 
-# 🎯 Repository Goals
+## 📊 Overall Progress
 
-* ✅ Complete Modern C++
-* ⏳ Master STL
-* ⏳ Learn OOP
-* ⏳ Solve 500+ DSA Problems
-* ⏳ Build Console Projects
-* ⏳ Start Competitive Programming
+```
+█████████░░░░░░░░░░░░░░░░░░░░░  ~30%  (9 / ~30 Topics)
 
----
-
-# 📌 Repository Rules
-
-* 📅 Study every day.
-* 📝 Write notes after every topic.
-* 💻 Push code after every practice session.
-* 🚀 Never skip consistency.
+✅ Completed   : 08 Days
+⏳ In Progress : Strings
+🔥 Consistency : Active
+🎯 Next Goal   : Complete STL
+```
 
 ---
 
-# ⭐ If You Like This Repository
+## 🛠️ Development Environment
 
-If this repository helps you in your learning journey, consider giving it a **Star ⭐**.
+| Tool | Technology |
+|------|------------|
+| Language | C++17 |
+| Compiler | GCC / G++ |
+| IDE | Visual Studio Code |
+| Version Control | Git |
+| Repository | GitHub |
 
-It motivates me to keep learning and improving.
+---
+
+## 📌 Repository Rules
+
+> These are non-negotiable. They keep the journey alive.
+
+- 📅 Study every day — no exceptions
+- 📝 Write notes after every topic
+- 💻 Push code after every practice session
+- 🚀 Never break the consistency streak
+
+---
+
+## 🎯 Repository Goals
+
+- ✅ Build C++ Fundamentals
+- ⏳ Complete Modern C++
+- ⏳ Master STL
+- ⏳ Learn OOP in Depth
+- ⏳ Solve 500+ DSA Problems
+- ⏳ Build Console Projects
+- ⏳ Start Competitive Programming
+
+---
+
+## 📚 What You'll Find Here
+
+| Feature | Details |
+|---------|---------|
+| 📖 Notes | Beginner-friendly, concept-first explanations |
+| 💻 Code | Clean, well-commented programs |
+| 🧠 Practice | Topic-wise practice problems |
+| ⚡ Complexity | Time & space analysis where applicable |
+| 🚀 Projects | Small but complete mini projects |
+| 📈 Tracking | Daily progress log for accountability |
 
 ---
 
@@ -202,10 +198,14 @@ It motivates me to keep learning and improving.
 
 ## 👨‍💻 Author
 
-### **Avikam Gupta**
+### Avikam Gupta
 
 *"Consistency beats talent when talent doesn't stay consistent."*
 
-⭐ Happy Coding!
+<br/>
+
+⭐ **If this repository helps your learning, consider leaving a star — it keeps me going!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
