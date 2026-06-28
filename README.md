@@ -16,6 +16,22 @@
 
 ---
 
+## 📊 Live GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AvikamGupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff&bg_color=0d1117" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikamGupta&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=ffffff&bg_color=0d1117" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvikamGupta&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FFA726&currStreakLabel=58A6FF&background=0d1117" height="180"/>
+
+</div>
+
+---
+
 ## 📖 About This Repository
 
 Welcome to my **C++ Journey** — a structured, day-by-day record of everything I learn about C++.
@@ -196,15 +212,9 @@ Modern C++      ░░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-## 👨‍💻 Author
-
-### Avikam Gupta
+## 👨‍💻 Avikam Gupta
 
 *"Consistency beats talent when talent doesn't stay consistent."*
-
-<br/>
-
-⭐ **If this repository helps your learning, consider leaving a star — it keeps me going!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
