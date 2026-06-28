@@ -55,6 +55,7 @@ CPP-Journey
 - [x] Day 05 - Pattern problems
 - [x] Day 06 - Functions
 - [x] Day 07 - Arrays
+- [x] Day 08 - Vectors
 
 
 ## Author
