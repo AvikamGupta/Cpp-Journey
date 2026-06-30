@@ -9,7 +9,7 @@
 ![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Compiler](https://img.shields.io/badge/Compiler-GCC%20%2F%20G%2B%2B-A8B9CC?style=for-the-badge&logo=gnu&logoColor=black)
-![Days](https://img.shields.io/badge/Days%20Completed-08-brightgreen?style=for-the-badge)
+![Days](https://img.shields.io/badge/Days%20Completed-10-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-orange?style=for-the-badge)
 
 </div>
